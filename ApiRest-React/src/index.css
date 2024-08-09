@@ -1,0 +1,18 @@
+ #root{
+    padding: 0;
+ }
+ .btn {
+   min-width: 100px;
+   margin: 0 5px;
+}
+
+.table {
+   width: 100%;
+   margin: 20px 0;
+}
+
+.table th, .table td {
+   text-align: center;
+   vertical-align: middle;
+   padding: 15px;
+}
